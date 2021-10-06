@@ -46,7 +46,7 @@ article div {
   padding: 1rem;
 }
 
-article header {
+article {
   display: flex;
   justify-content: space-between;
   align-items: center;

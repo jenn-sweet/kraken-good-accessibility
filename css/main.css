@@ -47,7 +47,7 @@ article div {
   padding: 1rem;
 }
 
-.banner {
+hgroup {
   display: flex;
   justify-content: space-between;
   align-items: center;
